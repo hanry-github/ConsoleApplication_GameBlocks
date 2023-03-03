@@ -1,0 +1,143 @@
+﻿Reference No.: 1001
+Customer Name: Wei Siang
+Customer Number: 01222
+Number of Adults: 1
+Number of Senior Citizens: 0
+Number of Children: 1
+Boat and Train Rides: Banana Boat Ride 
+Shows: Day-Firework Show 
+Food Menu: Western Menu 
+Theme Park: WonderLAND
+Ticket Type: VVIP 
+Total Cost: RM704.90
+
+Reference No.: 1001
+Customer Name: Wei Siang
+Customer Number: 012333
+Number of Adults: 1
+Number of Senior Citizens: 0
+Number of Children: 1
+Boat and Train Rides: Cruise Ride Electric Train Ride 
+Shows: Dolphin Show Day-Firework Show 
+Food Menu: Chinese Menu Malay Menu 
+Theme Park: WonderLAND
+Ticket Type: Regular 
+Total Cost: RM275.60
+
+Reference No.: 1001
+Customer Name: lau Wei Si
+Customer Number: 122
+Number of Adults: 1
+Number of Senior Citizens: 0
+Number of Children: 1
+Boat and Train Rides: 
+Shows: 
+Food Menu: Japanese Menu 
+Theme Park: WonderLAND
+Ticket Type: VVIP 
+Total Cost: RM641.30
+
+Reference No.: 1001
+Customer Name: saas asas
+Customer Number: 213211
+Number of Adults: 12
+Number of Senior Citizens: 2
+Number of Children: 0
+Boat and Train Rides: 
+Shows: 
+Food Menu: 
+Theme Park: WonderLAND
+Ticket Type: Regular 
+Total Cost: RM735.11
+
+Reference No.: 1001
+Customer Name: Lau Wei Siang
+Customer Number: 08192821
+Number of Adults: 1
+Number of Senior Citizens: 0
+Number of Children: 1
+Boat and Train Rides: Banana Boat Ride Locomotive Train Ride 
+Shows: Dolphin Show 
+Food Menu: Western Menu 
+Theme Park: WonderLAND
+Ticket Type: VVIP 
+Total Cost: RM731.40
+
+Reference No.: 1001
+Customer Name: Wei Siang
+Customer Number: 01826
+Number of Adults: 1
+Number of Senior Citizens: 2
+Number of Children: 2
+Boat and Train Rides: Cruise Ride Duck Boat Ride 
+Shows: Magical Show Dolphin Show 
+Food Menu: Western Menu Chinese Menu 
+Theme Park: WonderLAND
+Ticket Type: VVIP 
+Total Cost: RM1,134.20
+
+Reference No.: 1001
+Customer Name: saj sasabj
+Customer Number: 119089
+Number of Adults: 2
+Number of Senior Citizens: 1
+Number of Children: 2
+Boat and Train Rides: Electric Train Ride 
+Shows: Day-Firework Show 
+Food Menu: Chinese Menu 
+Theme Park: WonderLAND
+Ticket Type: VVIP 
+Total Cost: RM959.30
+
+Reference No.: 1001
+Customer Name: Ai Ling
+Customer Number: 123456
+Number of Adults: 1
+Number of Senior Citizens: 1
+Number of Children: 1
+Boat and Train Rides: Locomotive Train Ride 
+Shows: Magical Show 
+Food Menu: Western Menu 
+Theme Park: WonderLAND
+Ticket Type: Express 
+Total Cost: RM355.10
+
+Reference No.: 1001
+Customer Name: Ai Ling
+Customer Number: 456789
+Number of Adults: 1
+Number of Senior Citizens: 1
+Number of Children: 1
+Boat and Train Rides: Cruise Ride Banana Boat Ride Locomotive Train Ride 
+Shows: Magical Show 
+Food Menu: Chinese Menu 
+Theme Park: Both Theme Parks
+Ticket Type: Express Unlimited 
+Total Cost: RM614.80
+
+Reference No.: 1001
+Customer Name: Ai Ling
+Customer Number: 123
+Number of Adults: 1
+Number of Senior Citizens: 1
+Number of Children: 1
+Boat and Train Rides: Cruise Ride Banana Boat Ride Electric Train Ride Couple Train Ride 
+Shows: 
+Food Menu: 
+Theme Park: WonderLAND
+Ticket Type: Express Unlimited 
+Total Cost: RM519.40
+
+Reference No.: 1001
+Customer Name: Wei Siang
+Customer Number: 123456
+Number of Adults: 1
+Number of Senior Citizens: 2
+Number of Children: 3
+Boat and Train Rides: Cruise Ride Banana Boat Ride 
+Shows: Magical Show Night-Firework Show 
+Food Menu: Chinese Menu Malay Menu 
+Theme Park: WonderLAND
+Ticket Type: Express Unlimited 
+Total Cost: RM948.70
+

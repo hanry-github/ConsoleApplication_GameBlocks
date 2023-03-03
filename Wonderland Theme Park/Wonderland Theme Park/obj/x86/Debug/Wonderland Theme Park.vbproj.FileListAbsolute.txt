@@ -1,0 +1,80 @@
+G:\WTP assignment\Wonderland Theme Park\Wonderland Theme Park\obj\x86\Debug\Wonderland_Theme_Park.Form1.resources
+G:\WTP assignment\Wonderland Theme Park\Wonderland Theme Park\obj\x86\Debug\Wonderland Theme Park.vbproj.GenerateResource.Cache
+G:\WTP assignment\Wonderland Theme Park\Wonderland Theme Park\bin\Debug\Wonderland Theme Park.exe
+G:\WTP assignment\Wonderland Theme Park\Wonderland Theme Park\bin\Debug\Wonderland Theme Park.pdb
+G:\WTP assignment\Wonderland Theme Park\Wonderland Theme Park\bin\Debug\Wonderland Theme Park.xml
+G:\WTP assignment\Wonderland Theme Park\Wonderland Theme Park\obj\x86\Debug\Wonderland_Theme_Park.Resources.resources
+G:\WTP assignment\Wonderland Theme Park\Wonderland Theme Park\obj\x86\Debug\Wonderland Theme Park.exe
+G:\WTP assignment\Wonderland Theme Park\Wonderland Theme Park\obj\x86\Debug\Wonderland Theme Park.xml
+G:\WTP assignment\Wonderland Theme Park\Wonderland Theme Park\obj\x86\Debug\Wonderland Theme Park.pdb
+E:\WTP assignment\Wonderland Theme Park\Wonderland Theme Park\obj\x86\Debug\Wonderland Theme Park.exe
+E:\WTP assignment\Wonderland Theme Park\Wonderland Theme Park\obj\x86\Debug\Wonderland Theme Park.xml
+E:\WTP assignment\Wonderland Theme Park\Wonderland Theme Park\obj\x86\Debug\Wonderland Theme Park.pdb
+E:\WTP assignment\Wonderland Theme Park\Wonderland Theme Park\bin\Debug\Wonderland Theme Park.exe
+E:\WTP assignment\Wonderland Theme Park\Wonderland Theme Park\bin\Debug\Wonderland Theme Park.pdb
+E:\WTP assignment\Wonderland Theme Park\Wonderland Theme Park\bin\Debug\Wonderland Theme Park.xml
+E:\WTP assignment\Wonderland Theme Park\Wonderland Theme Park\obj\x86\Debug\Wonderland_Theme_Park.Form1.resources
+E:\WTP assignment\Wonderland Theme Park\Wonderland Theme Park\obj\x86\Debug\Wonderland_Theme_Park.Resources.resources
+E:\WTP assignment\Wonderland Theme Park\Wonderland Theme Park\obj\x86\Debug\Wonderland Theme Park.vbproj.GenerateResource.Cache
+D:\Programming\WTP assignment\Wonderland Theme Park\Wonderland Theme Park\obj\x86\Debug\Wonderland Theme Park.exe
+D:\Programming\WTP assignment\Wonderland Theme Park\Wonderland Theme Park\obj\x86\Debug\Wonderland Theme Park.xml
+D:\Programming\WTP assignment\Wonderland Theme Park\Wonderland Theme Park\obj\x86\Debug\Wonderland Theme Park.pdb
+D:\Programming\WTP assignment\Wonderland Theme Park\Wonderland Theme Park\bin\Debug\Wonderland Theme Park.exe
+D:\Programming\WTP assignment\Wonderland Theme Park\Wonderland Theme Park\bin\Debug\Wonderland Theme Park.pdb
+D:\Programming\WTP assignment\Wonderland Theme Park\Wonderland Theme Park\bin\Debug\Wonderland Theme Park.xml
+D:\Programming\WTP assignment\Wonderland Theme Park\Wonderland Theme Park\obj\x86\Debug\Wonderland_Theme_Park.Form1.resources
+D:\Programming\WTP assignment\Wonderland Theme Park\Wonderland Theme Park\obj\x86\Debug\Wonderland_Theme_Park.Resources.resources
+D:\Programming\WTP assignment\Wonderland Theme Park\Wonderland Theme Park\obj\x86\Debug\Wonderland Theme Park.vbproj.GenerateResource.Cache
+D:\Programming\WTP assignment\Wonderland Theme Park\Wonderland Theme Park\obj\x86\Debug\Wonderland_Theme_Park.仙境主题公园线上门票预购.resources
+E:\Testing Wonderland\Wonderland Theme Park\Wonderland Theme Park\obj\x86\Debug\Wonderland Theme Park.exe
+E:\Testing Wonderland\Wonderland Theme Park\Wonderland Theme Park\obj\x86\Debug\Wonderland Theme Park.xml
+E:\Testing Wonderland\Wonderland Theme Park\Wonderland Theme Park\obj\x86\Debug\Wonderland Theme Park.pdb
+E:\Testing Wonderland\Wonderland Theme Park\Wonderland Theme Park\bin\Debug\Wonderland Theme Park.exe
+E:\Testing Wonderland\Wonderland Theme Park\Wonderland Theme Park\bin\Debug\Wonderland Theme Park.pdb
+E:\Testing Wonderland\Wonderland Theme Park\Wonderland Theme Park\bin\Debug\Wonderland Theme Park.xml
+E:\Testing Wonderland\Wonderland Theme Park\Wonderland Theme Park\obj\x86\Debug\Wonderland_Theme_Park.Form1.resources
+E:\Testing Wonderland\Wonderland Theme Park\Wonderland Theme Park\obj\x86\Debug\Wonderland_Theme_Park.Resources.resources
+E:\Testing Wonderland\Wonderland Theme Park\Wonderland Theme Park\obj\x86\Debug\Wonderland_Theme_Park.仙境主题公园线上门票预购.resources
+E:\Testing Wonderland\Wonderland Theme Park\Wonderland Theme Park\obj\x86\Debug\Wonderland Theme Park.vbproj.GenerateResource.Cache
+E:\Testing Wonderland\Wonderland Theme Park\Wonderland Theme Park\obj\x86\Debug\Wonderland_Theme_Park.Taman_Tema_Wonderland_Online_Tiket_dan_Tempahan.resources
+C:\Users\100067416\Desktop\Testing Wonderland\Wonderland Theme Park\Wonderland Theme Park\obj\x86\Debug\Wonderland Theme Park.exe
+C:\Users\100067416\Desktop\Testing Wonderland\Wonderland Theme Park\Wonderland Theme Park\obj\x86\Debug\Wonderland Theme Park.xml
+C:\Users\100067416\Desktop\Testing Wonderland\Wonderland Theme Park\Wonderland Theme Park\obj\x86\Debug\Wonderland Theme Park.pdb
+C:\Users\100067416\Desktop\Testing Wonderland\Wonderland Theme Park\Wonderland Theme Park\bin\Debug\Wonderland Theme Park.exe
+C:\Users\100067416\Desktop\Testing Wonderland\Wonderland Theme Park\Wonderland Theme Park\bin\Debug\Wonderland Theme Park.pdb
+C:\Users\100067416\Desktop\Testing Wonderland\Wonderland Theme Park\Wonderland Theme Park\bin\Debug\Wonderland Theme Park.xml
+C:\Users\100067416\Desktop\Testing Wonderland\Wonderland Theme Park\Wonderland Theme Park\obj\x86\Debug\Wonderland_Theme_Park.Resources.resources
+C:\Users\100067416\Desktop\Testing Wonderland\Wonderland Theme Park\Wonderland Theme Park\obj\x86\Debug\Wonderland Theme Park.vbproj.GenerateResource.Cache
+C:\Users\100067416\Desktop\Testing Wonderland\Wonderland Theme Park\Wonderland Theme Park\obj\x86\Debug\Wonderland_Theme_Park.TamanTemaWonderlandOnlineTiketdanTempahan.resources
+C:\Users\100067416\Desktop\Testing Wonderland\Wonderland Theme Park\Wonderland Theme Park\obj\x86\Debug\Wonderland_Theme_Park.Form1.resources
+G:\Testing Wonderland\Wonderland Theme Park\Wonderland Theme Park\obj\x86\Debug\Wonderland Theme Park.exe
+G:\Testing Wonderland\Wonderland Theme Park\Wonderland Theme Park\obj\x86\Debug\Wonderland Theme Park.xml
+G:\Testing Wonderland\Wonderland Theme Park\Wonderland Theme Park\obj\x86\Debug\Wonderland Theme Park.pdb
+G:\Testing Wonderland\Wonderland Theme Park\Wonderland Theme Park\bin\Debug\Wonderland Theme Park.exe
+G:\Testing Wonderland\Wonderland Theme Park\Wonderland Theme Park\bin\Debug\Wonderland Theme Park.pdb
+G:\Testing Wonderland\Wonderland Theme Park\Wonderland Theme Park\bin\Debug\Wonderland Theme Park.xml
+G:\Testing Wonderland\Wonderland Theme Park\Wonderland Theme Park\obj\x86\Debug\Wonderland_Theme_Park.TamanTemaWonderlandOnlineTiketdanTempahan.resources
+G:\Testing Wonderland\Wonderland Theme Park\Wonderland Theme Park\obj\x86\Debug\Wonderland_Theme_Park.Form1.resources
+G:\Testing Wonderland\Wonderland Theme Park\Wonderland Theme Park\obj\x86\Debug\Wonderland_Theme_Park.Resources.resources
+G:\Testing Wonderland\Wonderland Theme Park\Wonderland Theme Park\obj\x86\Debug\Wonderland_Theme_Park.仙境主题公园线上门票预购.resources
+G:\Testing Wonderland\Wonderland Theme Park\Wonderland Theme Park\obj\x86\Debug\Wonderland Theme Park.vbproj.GenerateResource.Cache
+C:\Users\100067416\Desktop\Testing Wonderland\Wonderland Theme Park\Wonderland Theme Park\obj\x86\Debug\Wonderland_Theme_Park.仙境主题公园线上门票预购.resources
+G:\WTP assignment\Wonderland Theme Park\Wonderland Theme Park\obj\x86\Debug\Wonderland_Theme_Park.TamanTemaWonderlandOnlineTiketdanTempahan.resources
+G:\WTP assignment\Wonderland Theme Park\Wonderland Theme Park\obj\x86\Debug\Wonderland_Theme_Park.仙境主题公园线上门票预购.resources
+E:\WTP assignment\Wonderland Theme Park\Wonderland Theme Park\obj\x86\Debug\Wonderland_Theme_Park.TamanTemaWonderlandOnlineTiketdanTempahan.resources
+E:\WTP assignment\Wonderland Theme Park\Wonderland Theme Park\obj\x86\Debug\Wonderland_Theme_Park.仙境主题公园线上门票预购.resources
+C:\Hanry\Programming\Visual Studio\WTP assignment\Wonderland Theme Park\Wonderland Theme Park\bin\Debug\Wonderland Theme Park.exe.config
+C:\Hanry\Programming\Visual Studio\WTP assignment\Wonderland Theme Park\Wonderland Theme Park\bin\Debug\Wonderland Theme Park.exe
+C:\Hanry\Programming\Visual Studio\WTP assignment\Wonderland Theme Park\Wonderland Theme Park\bin\Debug\Wonderland Theme Park.pdb
+C:\Hanry\Programming\Visual Studio\WTP assignment\Wonderland Theme Park\Wonderland Theme Park\bin\Debug\Wonderland Theme Park.xml
+C:\Hanry\Programming\Visual Studio\WTP assignment\Wonderland Theme Park\Wonderland Theme Park\obj\x86\Debug\Wonderland Theme Park.vbproj.AssemblyReference.cache
+C:\Hanry\Programming\Visual Studio\WTP assignment\Wonderland Theme Park\Wonderland Theme Park\obj\x86\Debug\Wonderland Theme Park.vbproj.SuggestedBindingRedirects.cache
+C:\Hanry\Programming\Visual Studio\WTP assignment\Wonderland Theme Park\Wonderland Theme Park\obj\x86\Debug\Wonderland_Theme_Park.TamanTemaWonderlandOnlineTiketdanTempahan.resources
+C:\Hanry\Programming\Visual Studio\WTP assignment\Wonderland Theme Park\Wonderland Theme Park\obj\x86\Debug\Wonderland_Theme_Park.Form1.resources
+C:\Hanry\Programming\Visual Studio\WTP assignment\Wonderland Theme Park\Wonderland Theme Park\obj\x86\Debug\Wonderland_Theme_Park.Resources.resources
+C:\Hanry\Programming\Visual Studio\WTP assignment\Wonderland Theme Park\Wonderland Theme Park\obj\x86\Debug\Wonderland_Theme_Park.仙境主题公园线上门票预购.resources
+C:\Hanry\Programming\Visual Studio\WTP assignment\Wonderland Theme Park\Wonderland Theme Park\obj\x86\Debug\Wonderland Theme Park.vbproj.GenerateResource.cache
+C:\Hanry\Programming\Visual Studio\WTP assignment\Wonderland Theme Park\Wonderland Theme Park\obj\x86\Debug\Wonderland Theme Park.vbproj.CoreCompileInputs.cache
+C:\Hanry\Programming\Visual Studio\WTP assignment\Wonderland Theme Park\Wonderland Theme Park\obj\x86\Debug\Wonderland Theme Park.exe
+C:\Hanry\Programming\Visual Studio\WTP assignment\Wonderland Theme Park\Wonderland Theme Park\obj\x86\Debug\Wonderland Theme Park.xml
+C:\Hanry\Programming\Visual Studio\WTP assignment\Wonderland Theme Park\Wonderland Theme Park\obj\x86\Debug\Wonderland Theme Park.pdb
